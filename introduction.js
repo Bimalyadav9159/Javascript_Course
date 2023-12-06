@@ -94,7 +94,7 @@ switch (day) {
       document.write("Wednesday<br>")
       break;
    case 4:
-      document.write("Thrusday <br>");
+      document.write("Thrusday <br>"); 
       break;
    case 5:
       document.write("Friday<br>");
